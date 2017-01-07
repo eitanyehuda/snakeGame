@@ -2,7 +2,7 @@
 Snake game - by Eitan Yehuda
 
 Description:
-Begin game by clicking play button with mouse of pressing space key or enter. The objective of this game is to move the snake around using the arrow keys and eat as many apples as possible. Red apples will cause the snake to increase in size while green apples shrink the snake. The amount grown or shrunk depends on the size of the apple, bigger apples have greater effects. Each apple eaten is worth a point and the snake starts moving faster after every 5 apples it eats. Game ends if the snake's head collides with its body or edges of the screen. You will also lose if you take too more than 15 seconds to eat an apple. Game over screen displays number of points earned. press Esc button or close window to exit game.
+Begin game by clicking play button with mouse of pressing space key or enter. The objective of this game is to move the snake around using the arrow keys and eat as many apples as possible. Red apples will cause the snake to increase in size while green apples shrink the snake. The amount grown or shrunk depends on the size of the apple, bigger apples have greater effects. Each apple eaten is worth a point and the snake starts moving faster after every 5 apples it eats. Music and sound effects are also part of game. Game ends if the snake's head collides with its body or edges of the screen. You will also lose if you take too more than 15 seconds to eat an apple. Game over screen displays number of points earned. press Esc button or close window to exit game.
 
 Requirements:
 <br>1.  Python
