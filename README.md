@@ -1,18 +1,20 @@
 # snakeGame
 Snake game - by Eitan Yehuda
 
-Description: The objective of this game is to get as many points as possible by eating apples with the snake. 
+Description:
+Begin game bu pressing play button with mouse of pressing space bar or enter. The objective of this game is to move the snake around using the arrow keys and eat as many apples as possible. Red apples will cause the snake to increase in size while green apples shrink the snake. The amount grown or shrunk depends on the size of the apple, bigger apples have greater effects. Each apple eaten is worth a point and the snake starts moving faster after every 5 apples it eats. Game ends if the snake's head collides with its body or edges of the screen. You will also lose if you take too more than 15 seconds to eat an apple. Game over screen displays number of points earned. press Esc button or close window to exit game.
 
-Requirements: 
-1. Python 
-2. Pygame
+Requirements:
+<br>1.  Python
+<br>2.  Pygame
 
 *Python and Pygame can be installed from their official websites. Follow these instructions if you are having trouble downloading Pygame
 
 Steps for installing python (ver. 3.5.2) and pygame 
-1. Install python from ---https://www.python.org/downloads/ 
-2. Download pygame file for your corresponding python version from ---http://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame
-3. Go to pygame file directory and open command line (Shift + Right Click --> Open Command Window here) 
-4. Type "pip install wheel" in command line 
-5. Type "pip install (filename)" (ex. pip install pygame-1.9.2b1-cp35-cp35m-win_amd64.whl) 
-6. Check that it works by openning a python shell and typing import pygame" and then "print pygame.ver". If your version shows up, everything should work properly
+<br>1. Install python from ---https://www.python.org/downloads/
+<br>2. Download pygame file for your corresponding python version from ---http://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame
+<br>3. Go to pygame file directory and open command line (Shift + Right Click --> Open Command Window here)
+<br>4. Type "pip install wheel" in command line 
+<br>5. Type "pip install (filename)"   (ex. pip install pygame-1.9.2b1-cp35-cp35m-win_amd64.whl)
+<br>6. Check that it works by openning a python shell and typing "import pygame" and then "print pygame.ver". If your version shows up, 
+everything should work properly
